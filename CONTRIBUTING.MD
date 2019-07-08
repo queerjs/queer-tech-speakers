@@ -1,7 +1,7 @@
 Hello there!
 
 Thank you for making this community bigger. Feel free to add yourself
-Format ([example pull request](https://github.com/karlhorky/awesome-speakers/pull/156)):
+Format ([example pull request](https://github.com/queerjs/queer-speakers/pull/1)):
 
 - An image (Twitter profile picture is best)
 - Line 1: Name of the speaker
