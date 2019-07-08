@@ -10,6 +10,6 @@ Format ([example pull request](https://github.com/queerjs/queer-speakers/pull/1)
 - Line 4: Main location
 - Line 5: Any other location you could speak at
 
-Also please always write backslashes at the end of Line 1 and 2 to create newlines in Markdown.
+Also please always write backslashes at the end of Line 1, 2, 3 and 4 to create newlines in Markdown.
 
 Thank you for reading!
