@@ -13,4 +13,4 @@ Thank you for being part of this!
 **Sara Vieira**\
 Topics: JavaScript, Node.js, GraphQL, React and Vue\
 https://twitter.com/nikkitaftw \
-Location: Berlin
+Location: Berlin, Germany
