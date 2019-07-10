@@ -1,9 +1,10 @@
 # Amazing Queer Speakers
 
-Queer Speakers who would like to speak at QueerJS.
-This list serves two main porpuses, raise awareness of the queer people in the tech community and also to help the organization of QueerJS know where it would be interesting to have new meetups
+A list of queer speakers who would like to speak at QueerJS events worldwide :earth_asia:
 
-Thank you for being a part of this!
+This list serves two purposes: Raise awareness of the queer speakers in the tech community and also to help the QueerJS organizers know where it would be interesting to host new meetups.
+
+Thank you for being part of this!
 
 ## Speakers
 
@@ -12,5 +13,4 @@ Thank you for being a part of this!
 **Sara Vieira**\
 Topics: JavaScript, Node.js, GraphQL, React and Vue\
 https://twitter.com/nikkitaftw \
-Location: Berlin\
-Other places available: Portugal
+Location: Berlin
