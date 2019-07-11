@@ -1,6 +1,6 @@
-# Amazing Queer Speakers
+# Amazing Queer Speakers in Tech 
 
-A list of queer speakers who would like to speak at QueerJS events worldwide :earth_asia:
+A list of queer tech speakers from all around the globe :earth_asia:
 
 This list serves two purposes: Raise awareness of the queer speakers in the tech community and also to help the QueerJS organizers know where it would be interesting to host new meetups.
 
