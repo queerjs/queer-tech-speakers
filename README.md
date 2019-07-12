@@ -44,3 +44,11 @@ Location: Sydney, Australia
 Topics: Javascript, React, Node.js, Rust, Web VR, Mozilla Add-on's \
 https://twitter.com/jayeshkattar , https://jayeshkattar.github.io/ \
 Location: Bengaluru, India
+
+<img src="https://cdn.glitch.com/2d246102-8341-4166-a220-b39d607c9218%2Fsquiddo2.png?v=1562948168400" height="70px" width="70px" align="left" alt="" />
+
+
+**Melody Starling** \
+Topics: Creative Talks about Javascript, Node.js, React, Sass/CSS, Education, and Communities \
+https://twitter.com/pixelyunicorn , https://melody.dev/ \
+Location: Philadelphia & NYC, USA
