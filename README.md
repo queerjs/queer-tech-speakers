@@ -35,3 +35,10 @@ Location: Berlin, Germany
 Topics: Creative Coding, JavaScript, IoT, AI \
 https://twitter.com/devdevcharlie \
 Location: Sydney, Australia
+
+<img src="https://jayeshkattar.github.io/images/photo.png" height="70px" width="70px" align="left" alt="" />
+
+**Jayesh Katta Ramalingaiah** \
+Topics: Javascript, React, Node.js, Rust, Web VR, Mozilla Add-on's \
+https://twitter.com/jayeshkattar \
+Location: Bengaluru, India
