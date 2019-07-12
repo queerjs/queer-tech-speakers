@@ -21,3 +21,9 @@ Location: Berlin, Germany
 Topics: Web Performance, WebXR, HTML & CSS\
 https://twitter.com/lady_ada_king, https://ada.is \
 Location: London, UK
+
+<img src="https://pbs.twimg.com/profile_images/857671079636217857/ICFEvex-_400x400.jpg" height="70px" width="70px" align="left" alt="" />
+
+**Steven Langbroek**\
+Topics: Node.js, React, FP, Engineering Management\
+Location: Berlin, Germany
