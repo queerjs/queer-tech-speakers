@@ -40,5 +40,5 @@ Location: Sydney, Australia
 
 **Jayesh Katta Ramalingaiah** \
 Topics: Javascript, React, Node.js, Rust, Web VR, Mozilla Add-on's \
-https://twitter.com/jayeshkattar \
+https://twitter.com/jayeshkattar , https://jayeshkattar.github.io/ \
 Location: Bengaluru, India
