@@ -26,5 +26,5 @@ Location: London, UK
 
 **Steven Langbroek**\
 Topics: Node.js, React, FP, Engineering Management\
-https://twitter.com/stevendotjs\
+https://twitter.com/stevendotjs \
 Location: Berlin, Germany
