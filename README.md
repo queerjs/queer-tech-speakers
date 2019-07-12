@@ -14,3 +14,10 @@ Thank you for being part of this!
 Topics: JavaScript, Node.js, GraphQL, React and Vue\
 https://twitter.com/nikkitaftw \
 Location: Berlin, Germany
+
+<img src="https://twitter.com/lady_ada_king/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
+
+**Ada Rose Cannon**\
+Topics: Web Performance, WebXR, HTML & CSS\
+https://twitter.com/lady_ada_king, https://ada.is \
+Location: London, UK
