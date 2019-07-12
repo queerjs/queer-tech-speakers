@@ -28,3 +28,10 @@ Location: London, UK
 Topics: Node.js, React, FP, Engineering Management\
 https://twitter.com/stevendotjs \
 Location: Berlin, Germany
+
+<img src="https://pbs.twimg.com/profile_images/440808125721870336/34QLtMdA_400x400.jpeg" height="70px" width="70px" align="left" alt="" />
+
+**Charlie Gerard** \
+Topics: Creative Coding, JavaScript, IoT, AI \
+https://twitter.com/devdevcharlie \
+Location: Sydney, Australia
