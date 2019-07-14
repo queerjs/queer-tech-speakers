@@ -53,6 +53,14 @@ https://twitter.com/pixelyunicorn , https://melody.dev/ \
 Location: Philadelphia & NYC, USA
 
 
+<img src="https://pbs.twimg.com/profile_images/1136377275551629312/Z-9Lx8-x_400x400.png" height="70px" width="70px" align="left" alt="" />
+
+**Quil**\
+Topics: JavaScript, FP, Programming Language Design, and Compilers \
+https://twitter.com/robotlolita, https://robotlolita.me/ \
+Location: Stockholm, Sweden
+
+
 <img src="https://twitter.com/paul_v_m/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
 **Paul Verbeek-Mast** \
