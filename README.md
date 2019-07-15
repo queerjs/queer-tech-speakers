@@ -75,3 +75,10 @@ Location: Amsterdam, The Netherlands
 Topics: HTML & CSS, Web typography \
 https://twitter.com/hj_chen \
 Location: Singapore
+
+<img src="https://twitter.com/avilene_/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
+
+**Aveline Estié** \
+Topics: Developer Tools, Developer Experience, React, JavaScript, Electron \
+https://twitter.com/avilene_ \
+Location: Stockholm, Sweden
