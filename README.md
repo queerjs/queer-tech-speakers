@@ -80,5 +80,5 @@ Location: Singapore
 
 **Aveline Estié** \
 Topics: Developer Tools, Developer Experience, React, JavaScript, Electron \
-https://twitter.com/avilene_ \
+[https://twitter.com/avilene_](https://twitter.com/avilene_) \
 Location: Stockholm, Sweden
