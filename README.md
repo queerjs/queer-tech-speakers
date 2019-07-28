@@ -82,3 +82,10 @@ Location: Singapore
 Topics: Developer Tools, Developer Experience, React, JavaScript, Electron \
 [https://twitter.com/avilene_](https://twitter.com/avilene_) \
 Location: Stockholm, Sweden
+
+<img src="https://twitter.com/JeremiahLee/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
+
+**Jeremiah Lee** \
+Topics: Web APIs, Developer Experience, Engineering Management, JSON:API, Mozilla Add-ons / WebExtensions API, FitbitOS apps \
+[https://twitter.com/JeremiahLee](https://twitter.com/JeremiahLee) \
+Location: Stockholm, Sweden
