@@ -82,3 +82,10 @@ Location: Singapore
 Topics: Developer Tools, Developer Experience, React, JavaScript, Electron \
 [https://twitter.com/avilene_](https://twitter.com/avilene_) \
 Location: Stockholm, Sweden
+
+<img src="https://twitter.com/ffraenz/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
+
+**Fränz Friederes** \
+Topics: CSS & SASS, JavaScript, PHP, WordPress \
+https://twitter.com/ffraenz, https://fraenz.frieder.es/ \
+Location: Berlin, Germany & Luxembourg
