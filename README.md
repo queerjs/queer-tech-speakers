@@ -98,9 +98,17 @@ Topics: CSS & SASS, JavaScript, PHP, WordPress \
 https://twitter.com/ffraenz, https://fraenz.frieder.es/ \
 Location: Berlin, Germany & Luxembourg
 
+<img src="https://pbs.twimg.com/profile_images/1153994604166991873/Etqs6b5e_400x400.jpg" height="70px" width="70px" align="left" alt="" />
+
+**Laura González** \
+Topics: CSS & CSS-in-JS, JavaScript, React, Culture, Games \
+https://twitter.com/freezydorito, https://lauragonzalez.cc/ \
+Location: London, UK
+
 <img src="https://twitter.com/supremebeing09/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
 **Nils Binder** \
 Topics: CSS & HTML, SVG, Layout, Design \
 [https://twitter.com/supremebeing09](https://twitter.com/supremebeing09) \
 Location: Bochum, Germany
+
