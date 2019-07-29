@@ -104,5 +104,5 @@ Location: Berlin, Germany & Luxembourg
 **Laura González** \
 Topics: CSS & CSS-in-JS, JavaScript, React, Culture, Games \
 https://twitter.com/freezydorito, https://lauragonzalez.cc/ \
-Location: London, Spain
+Location: London, UK
 
