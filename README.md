@@ -106,3 +106,11 @@ Topics: CSS & CSS-in-JS, JavaScript, React, Culture, Games \
 https://twitter.com/freezydorito, https://lauragonzalez.cc/ \
 Location: London, UK
 
+
+<img src="https://pbs.twimg.com/profile_images/1153973985559887873/yqBnG2e4_400x400.jpg" height="70px" width="70px" align="left" alt="" />
+
+**Alex Villa** \
+Topics: JavaScript, React, ReasonML, Web Design, Queer Culture, Mentoring, Digital Nomads \
+https://twitter.com/AlxSavage, https://alxvilla.me/ \
+Location: Mexico City, San Francisco, Berlin
+
