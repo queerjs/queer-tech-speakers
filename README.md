@@ -120,3 +120,9 @@ Topics: JavaScript, React, ReasonML, Web Design, Queer Culture, Mentoring, Digit
 https://twitter.com/AlxSavage, https://alxvilla.me/ \
 Location: Mexico City, San Francisco, Berlin
 
+<img src="https://pbs.twimg.com/profile_images/1154307358106873856/ySyEjgac_400x400.jpg" height="70px" width="70px" align="left" alt="" />
+
+**Effy Elden** \
+Topics: DevOps, Cloud Infrastructure, Inclusivity, Gender \
+https://twitter.com/ineffyble, https://effy.is/ \
+Location: Melbourne, Australia
