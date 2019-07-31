@@ -126,3 +126,11 @@ Location: Mexico City, San Francisco, Berlin
 Topics: DevOps, Cloud Infrastructure, Inclusivity, Gender \
 https://twitter.com/ineffyble, https://effy.is/ \
 Location: Melbourne, Australia
+
+
+<img src="https://ton.twitter.com/1.1/ton/data/dm/1156452403694264325/1156452388129169408/Kzmo8GVj.jpg:small" height="70px" width="70px" align="left" alt="" />
+
+**pedro** \
+Topics: everything from c64 until now, a lot to say about ethics \
+https://github.com/rj76/ \
+Location: The Hague, behind you
