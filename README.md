@@ -1,4 +1,4 @@
-# Amazing Queer Speakers in Tech 
+# Amazing Queer Speakers in Tech
 
 A list of queer tech speakers from all around the globe :earth_asia:
 
@@ -128,9 +128,9 @@ https://twitter.com/ineffyble, https://effy.is/ \
 Location: Melbourne, Australia
 
 
-<img src="https://ton.twitter.com/1.1/ton/data/dm/1156452403694264325/1156452388129169408/Kzmo8GVj.jpg:small" height="70px" width="70px" align="left" alt="" />
+<img src="https://pbs.twimg.com/media/D59k2LCXsAIW9zX?format=jpg&name=4096x4096" height="70px" width="70px" align="left" alt="" />
 
 **pedro** \
 Topics: everything from c64 until now, a lot to say about ethics \
 https://github.com/rj76/ \
-Location: The Hague, behind you
+Location: The Hague, The Netherlands
