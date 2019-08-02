@@ -134,3 +134,11 @@ Location: Melbourne, Australia
 Topics: everything from c64 until now, a lot to say about ethics \
 https://github.com/rj76/ \
 Location: The Hague, The Netherlands
+
+
+<img src="https://www.gravatar.com/avatar/24073d0e70921eda1a2ae25e2cceb057?s=500" height="70px" width="70px" align="left" alt="" />
+
+**Ash Kyd**\
+Topics: JavaScript, Node.js, React and Vue, Accessibility/Best Practice, Gamedev, JAMStack, SEO, other? \
+https://twitter.com/ashkyd \
+Location: Amsterdam, Netherlands
