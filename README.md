@@ -142,3 +142,11 @@ Location: The Hague, The Netherlands
 Topics: JavaScript, Node.js, React and Vue, Accessibility/Best Practice, Gamedev, JAMStack, SEO, other? \
 https://twitter.com/ashkyd \
 Location: Amsterdam, Netherlands
+
+
+<img src="https://avatars3.githubusercontent.com/u/3082153?s=96&v=4" height="70px" width="70px" align="left" alt="" />
+
+**Chance Strickland** \
+Topics: JavaScript, React, WordPress, Accessibility, Career Development, Freelancing/Contracting \
+https://twitter.com/chancethedev, https://github.com/chancestrickland \
+Location: San Diego, CA
