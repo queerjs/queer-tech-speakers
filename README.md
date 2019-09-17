@@ -151,7 +151,7 @@ Topics: JavaScript, React, WordPress, Accessibility, Career Development, Freelan
 https://twitter.com/chancethedev, https://github.com/chancestrickland \
 Location: San Diego, CA
 
-<img src="https://twitter.com/nikkitaFTW/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
+<img src="https://twitter.com/AriVanider/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
 **Ari V**\
 Topics: Developer Relations, Community, Developer Experience, CSS, Games\
