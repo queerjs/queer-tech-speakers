@@ -150,3 +150,12 @@ Location: Amsterdam, Netherlands
 Topics: JavaScript, React, WordPress, Accessibility, Career Development, Freelancing/Contracting \
 https://twitter.com/chancethedev, https://github.com/chancestrickland \
 Location: San Diego, CA
+
+
+<img src="https://pbs.twimg.com/profile_images/1110623843939287041/QmYROzLl_400x400.png" height="70px" width="70px" align="left" alt="" />
+
+**Trish Ang** \
+Topics: Accessibility, Design Systems, JS, React, Career Advocacy, Diversity & Inclusion \
+https://twitter.com/feesh, https://github.com/feesh \
+Location: Oakland, CA
+
