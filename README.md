@@ -150,3 +150,10 @@ Location: Amsterdam, Netherlands
 Topics: JavaScript, React, WordPress, Accessibility, Career Development, Freelancing/Contracting \
 https://twitter.com/chancethedev, https://github.com/chancestrickland \
 Location: San Diego, CA
+
+<img src="https://twitter.com/AriVanider/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
+
+**Ari V**\
+Topics: Developer Relations, Community, Developer Experience, CSS, Games\
+https://twitter.com/AriVanider \
+Location: Stockholm, Sweden
