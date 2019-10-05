@@ -164,3 +164,10 @@ Location: Oakland, CA
 Topics: Developer Relations, Community, Developer Experience, CSS, Games\
 https://twitter.com/AriVanider \
 Location: Stockholm, Sweden
+
+<img src="https://github.com/codebytere.png" height="70px" width="70px" align="left" alt="Shelley Vohr" />
+
+**Shelley Vohr**\
+Topics: JavaScript, Node.js, Electron, C++, Obj-C, Web Standards, Automation Tooling \
+[Twitter](https://twitter.com/codebytere), [GitHub](https://github.com/codebytere), [Portfolio](http://codebyte.re) \
+Location: San Francisco, California
