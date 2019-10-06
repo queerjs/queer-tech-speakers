@@ -14,42 +14,42 @@ Thank you for being part of this!
 
 **Sara Vieira**\
 Topics: JavaScript, Node.js, GraphQL, React and Vue\
-https://twitter.com/nikkitaftw \
+[Twitter](https://twitter.com/nikkitaftw) \
 Location: Berlin, Germany
 
 <img src="https://twitter.com/lady_ada_king/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
 **Ada Rose Cannon**\
 Topics: Web Performance, WebXR, HTML & CSS\
-https://twitter.com/lady_ada_king, https://ada.is \
+[Twitter](https://twitter.com/lady_ada_king), [ada.is](https://ada.is) \
 Location: London, UK
 
 <img src="https://pbs.twimg.com/profile_images/857671079636217857/ICFEvex-_400x400.jpg" height="70px" width="70px" align="left" alt="" />
 
 **Steven Langbroek**\
 Topics: Node.js, React, FP, Engineering Management\
-https://twitter.com/stevendotjs \
+[Twitter](https://twitter.com/stevendotjs) \
 Location: Berlin, Germany
 
 <img src="https://pbs.twimg.com/profile_images/440808125721870336/34QLtMdA_400x400.jpeg" height="70px" width="70px" align="left" alt="" />
 
 **Charlie Gerard** \
 Topics: Creative Coding, JavaScript, IoT, AI \
-https://twitter.com/devdevcharlie \
+[Twitter](https://twitter.com/devdevcharlie) \
 Location: Sydney, Australia
 
 <img src="https://jayeshkattar.github.io/images/photo.png" height="70px" width="70px" align="left" alt="" />
 
 **Jayesh Katta Ramalingaiah** \
 Topics: Javascript, React, Node.js, Rust, Web VR, Mozilla Add-on's \
-https://twitter.com/jayeshkattar , https://jayeshkattar.github.io/ \
+[Twitter](https://twitter.com/jayeshkattar) , [jayeshkattar.github.io](https://jayeshkattar.github.io/) \
 Location: Bengaluru, India
 
 <img src="https://cdn.glitch.com/2d246102-8341-4166-a220-b39d607c9218%2Fsquiddo2.png?v=1562948168400" height="70px" width="70px" align="left" alt="" />
 
 **Melody Starling** \
 Topics: Creative Talks about Javascript, Node.js, React, Sass/CSS, Education, and Communities \
-https://twitter.com/pixelyunicorn , https://melody.dev/ \
+[Twitter](https://twitter.com/pixelyunicorn) , [melody.dev](https://melody.dev/) \
 Location: Philadelphia & NYC, USA
 
 
@@ -57,7 +57,7 @@ Location: Philadelphia & NYC, USA
 
 **Quil**\
 Topics: JavaScript, FP, Programming Language Design, and Compilers \
-https://twitter.com/robotlolita, https://robotlolita.me/ \
+[Twitter](https://twitter.com/robotlolita), [robotlolita.me](https://robotlolita.me/) \
 Location: Stockholm, Sweden
 
 
@@ -65,7 +65,7 @@ Location: Stockholm, Sweden
 
 **Paul Verbeek-Mast** \
 Topics: Ethics, Team Building, Inclusivity, CSS, A11y, Developer Tools, Style Guides \
-https://twitter.com/paul_v_m , https://paulvm.com/ \
+[Twitter](https://twitter.com/paul_v_m) , [paulvm.com](https://paulvm.com/) \
 Location: Amsterdam, The Netherlands
 
 
@@ -73,14 +73,14 @@ Location: Amsterdam, The Netherlands
 
 **Chen Hui Jing** \
 Topics: HTML & CSS, Web typography \
-https://twitter.com/hj_chen \
+[Twitter](https://twitter.com/hj_chen) \
 Location: Singapore
 
 <img src="https://twitter.com/avilene_/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
 **Aveline Estié** \
 Topics: Developer Tools, Developer Experience, React, JavaScript, Electron \
-[https://twitter.com/avilene_](https://twitter.com/avilene_) \
+[Twitter](https://twitter.com/avilene_) \
 Location: Stockholm, Sweden
 
 
@@ -88,14 +88,14 @@ Location: Stockholm, Sweden
 
 **Jeremiah Lee** \
 Topics: Web APIs, Developer Experience, Engineering Management, JSON:API, Mozilla Add-ons / WebExtensions API, FitbitOS apps \
-[https://twitter.com/JeremiahLee](https://twitter.com/JeremiahLee) \
+[Twitter](https://twitter.com/JeremiahLee) \
 Location: Stockholm, Sweden
 
 <img src="https://twitter.com/ffraenz/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
 **Fränz Friederes** \
 Topics: CSS & SASS, JavaScript, PHP, WordPress \
-https://twitter.com/ffraenz, https://fraenz.frieder.es/ \
+[Twitter](https://twitter.com/ffraenz), [fraenz.frieder.es](https://fraenz.frieder.es/) \
 Location: Berlin, Germany & Luxembourg
 
 <img src="https://pbs.twimg.com/profile_images/1153994604166991873/Etqs6b5e_400x400.jpg" height="70px" width="70px" align="left" alt="" />
@@ -109,7 +109,7 @@ Location: London, UK
 
 **Nils Binder** \
 Topics: CSS & HTML, SVG, Layout, Design \
-[https://twitter.com/supremebeing09](https://twitter.com/supremebeing09) \
+[Twitter](https://twitter.com/supremebeing09) \
 Location: Bochum, Germany
 
 
@@ -117,14 +117,14 @@ Location: Bochum, Germany
 
 **Alex Villa** \
 Topics: JavaScript, React, ReasonML, Web Design, Queer Culture, Mentoring, Digital Nomads \
-https://twitter.com/AlxSavage, https://alxvilla.me/ \
+[Twitter](https://twitter.com/AlxSavage), [alxvilla.me](https://alxvilla.me/) \
 Location: Mexico City, San Francisco, Berlin
 
 <img src="https://pbs.twimg.com/profile_images/1154307358106873856/ySyEjgac_400x400.jpg" height="70px" width="70px" align="left" alt="" />
 
 **Effy Elden** \
 Topics: DevOps, Cloud Infrastructure, Inclusivity, Gender \
-https://twitter.com/ineffyble, https://effy.is/ \
+[Twitter](https://twitter.com/ineffyble), [effy.is](https://effy.is/) \
 Location: Melbourne, Australia
 
 
@@ -132,7 +132,7 @@ Location: Melbourne, Australia
 
 **pedro** \
 Topics: everything from c64 until now, a lot to say about ethics \
-https://github.com/rj76/ \
+[GitHub](https://github.com/rj76/) \
 Location: The Hague, The Netherlands
 
 
@@ -140,7 +140,7 @@ Location: The Hague, The Netherlands
 
 **Ash Kyd**\
 Topics: JavaScript, Node.js, React and Vue, Accessibility/Best Practice, Gamedev, JAMStack, SEO, other? \
-https://twitter.com/ashkyd \
+[Twitter](https://twitter.com/ashkyd) \
 Location: Amsterdam, Netherlands
 
 
@@ -148,21 +148,21 @@ Location: Amsterdam, Netherlands
 
 **Chance Strickland** \
 Topics: JavaScript, React, WordPress, Accessibility, Career Development, Freelancing/Contracting \
-https://twitter.com/chancethedev, https://github.com/chancestrickland \
+[Twitter](https://twitter.com/chancethedev), [GitHub](https://github.com/chancestrickland) \
 Location: San Diego, CA
 
 <img src="https://pbs.twimg.com/profile_images/1110623843939287041/QmYROzLl_400x400.png" height="70px" width="70px" align="left" alt="" />
 
 **Trish Ang** \
 Topics: Accessibility, Design Systems, JS, React, Career Advocacy, Diversity & Inclusion \
-https://twitter.com/feesh, https://github.com/feesh \
+[Twitter](https://twitter.com/feesh), [GitHub](https://github.com/feesh) \
 Location: Oakland, CA
 
 <img src="https://twitter.com/AriVanider/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
 **Ari V**\
 Topics: Developer Relations, Community, Developer Experience, CSS, Games\
-https://twitter.com/AriVanider \
+[Twitter](https://twitter.com/AriVanider) \
 Location: Stockholm, Sweden
 
 <img src="https://github.com/codebytere.png" height="70px" width="70px" align="left" alt="Shelley Vohr" />
