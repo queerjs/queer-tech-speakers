@@ -42,14 +42,14 @@ Location: Sydney, Australia
 
 **Jayesh Katta Ramalingaiah** \
 Topics: Javascript, React, Node.js, Rust, Web VR, Mozilla Add-on's \
-[Twitter](https://twitter.com/jayeshkattar) , [jayeshkattar.github.io](https://jayeshkattar.github.io/) \
+[Twitter](https://twitter.com/jayeshkattar), [jayeshkattar.github.io](https://jayeshkattar.github.io/) \
 Location: Bengaluru, India
 
 <img src="https://cdn.glitch.com/2d246102-8341-4166-a220-b39d607c9218%2Fsquiddo2.png?v=1562948168400" height="70px" width="70px" align="left" alt="" />
 
 **Melody Starling** \
 Topics: Creative Talks about Javascript, Node.js, React, Sass/CSS, Education, and Communities \
-[Twitter](https://twitter.com/pixelyunicorn) , [melody.dev](https://melody.dev/) \
+[Twitter](https://twitter.com/pixelyunicorn), [melody.dev](https://melody.dev/) \
 Location: Philadelphia & NYC, USA
 
 
@@ -65,7 +65,7 @@ Location: Stockholm, Sweden
 
 **Paul Verbeek-Mast** \
 Topics: Ethics, Team Building, Inclusivity, CSS, A11y, Developer Tools, Style Guides \
-[Twitter](https://twitter.com/paul_v_m) , [paulvm.com](https://paulvm.com/) \
+[Twitter](https://twitter.com/paul_v_m), [paulvm.com](https://paulvm.com/) \
 Location: Amsterdam, The Netherlands
 
 
@@ -102,7 +102,7 @@ Location: Berlin, Germany & Luxembourg
 
 **Laura González** \
 Topics: CSS & CSS-in-JS, JavaScript, React, Culture, Games \
-https://twitter.com/freezydorito, https://lauragonzalez.cc/ \
+[Twitter](https://twitter.com/freezydorito), [lauragonzalez.cc](https://lauragonzalez.cc/) \
 Location: London, UK
 
 <img src="https://twitter.com/supremebeing09/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
